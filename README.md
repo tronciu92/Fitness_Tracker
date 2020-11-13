@@ -13,6 +13,11 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 ## Site Pictures
 
+<img src="https://github.com/tronciu92/Fitness_Tracker/blob/main/public/assets/homepage.png">
+
+<img src="https://github.com/tronciu92/Fitness_Tracker/blob/main/public/assets/dash.png">
+
+<img src="https://github.com/tronciu92/Fitness_Tracker/blob/main/public/assets/live.gif">
 
 
 ## Code Snippets
